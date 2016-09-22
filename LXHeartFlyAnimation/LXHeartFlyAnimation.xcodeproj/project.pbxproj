@@ -15,6 +15,7 @@
 		52CD4B621D9289380075DFC8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52CD4B601D9289380075DFC8 /* LaunchScreen.storyboard */; };
 		52CD4B6D1D9289380075DFC8 /* LXHeartFlyAnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 52CD4B6C1D9289380075DFC8 /* LXHeartFlyAnimationTests.m */; };
 		52CD4B781D9289380075DFC8 /* LXHeartFlyAnimationUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 52CD4B771D9289380075DFC8 /* LXHeartFlyAnimationUITests.m */; };
+		D987B4011D93AE4F00C4BA3E /* 9162970F12F5E88EC52733C25A2091B8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D987B4001D93AE4F00C4BA3E /* 9162970F12F5E88EC52733C25A2091B8.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		52CD4B731D9289380075DFC8 /* LXHeartFlyAnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LXHeartFlyAnimationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		52CD4B771D9289380075DFC8 /* LXHeartFlyAnimationUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LXHeartFlyAnimationUITests.m; sourceTree = "<group>"; };
 		52CD4B791D9289380075DFC8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D987B4001D93AE4F00C4BA3E /* 9162970F12F5E88EC52733C25A2091B8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9162970F12F5E88EC52733C25A2091B8.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		52CD4B461D9289380075DFC8 = {
 			isa = PBXGroup;
 			children = (
+				D987B4001D93AE4F00C4BA3E /* 9162970F12F5E88EC52733C25A2091B8.jpg */,
 				52CD4B511D9289380075DFC8 /* LXHeartFlyAnimation */,
 				52CD4B6B1D9289380075DFC8 /* LXHeartFlyAnimationTests */,
 				52CD4B761D9289380075DFC8 /* LXHeartFlyAnimationUITests */,
@@ -246,6 +249,7 @@
 				52CD4B621D9289380075DFC8 /* LaunchScreen.storyboard in Resources */,
 				52CD4B5F1D9289380075DFC8 /* Assets.xcassets in Resources */,
 				52CD4B5D1D9289380075DFC8 /* Main.storyboard in Resources */,
+				D987B4011D93AE4F00C4BA3E /* 9162970F12F5E88EC52733C25A2091B8.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -498,6 +502,7 @@
 				52CD4B7E1D9289380075DFC8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		52CD4B7F1D9289380075DFC8 /* Build configuration list for PBXNativeTarget "LXHeartFlyAnimationTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +511,7 @@
 				52CD4B811D9289380075DFC8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		52CD4B821D9289380075DFC8 /* Build configuration list for PBXNativeTarget "LXHeartFlyAnimationUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +520,7 @@
 				52CD4B841D9289380075DFC8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
